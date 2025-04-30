@@ -1,0 +1,1 @@
+Analyzed sales data to identify trends, revealing that women (~65%) spend more than men. Maharashtra, Karnataka, and UP are the top spending states. Adults are the highest contributing age group, making up 50%of sales.
